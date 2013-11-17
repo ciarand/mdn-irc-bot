@@ -1,0 +1,12 @@
+{
+    "require": {
+        "epochblue/philip": "1.1.*@dev",
+        "guzzle/guzzle": "~3.7.4",
+        "symfony/yaml": "v2.3.7"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ciarand": "src/"
+        }
+    }
+}
