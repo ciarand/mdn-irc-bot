@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 MDN IRC bot
 ===========
 A very simple IRC bot that spits out MDN links when a channel message of
